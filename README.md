@@ -31,4 +31,8 @@ Capitulo 5: Navigations Between Pages.
 
 Capitulo 6: Setting Up your DataBase
   - Configuracion con PostgresSQL usando @vercel/postgres
-  -
+
+Capitulo 7: Fetching data. Recuperacion de datos
+  - Database queries
+  - Using Server Components to fetch data
+  - Armado de componente Dashboard
