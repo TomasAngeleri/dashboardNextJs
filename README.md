@@ -36,3 +36,13 @@ Capitulo 7: Fetching data. Recuperacion de datos
   - Database queries
   - Using Server Components to fetch data
   - Armado de componente Dashboard
+
+Capitulo 8: Static and Dynamic Rendering
+  - Renderizado estatico.
+  - Renderizado dinamico.
+
+Capitulo 9: Streaming
+  - Que es el y como implementar streaming.
+  - Loading.tsx y Suspense
+  - Que son los esqueletos de carga.
+  - Grupos de rutas overview (Permiten organizar archivos en grupos lógicos sin afectar la estructura de la ruta URL).
