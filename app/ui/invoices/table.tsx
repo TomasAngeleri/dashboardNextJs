@@ -16,7 +16,7 @@ export default async function InvoicesTable({
   if(invoices?.length === 0 ){
     return (
       <div className="mt-6 flow-root">
-        No hay resultados con tu busqueda...
+        No hay resultados para tu busqueda...
       </div>
     )
   }
