@@ -6,6 +6,8 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 
 Pasos del tutorial de https://nextjs.org/learn/dashboard-app
 
+Nota importante: En los componentes que se usa el 'use client' son componentes donde puedo utilizar hooks y detectores eventos.
+
 Capitulo 1: Getting Started.
   - Estructuras de carpetas.
   - Placeholder data.
@@ -42,7 +44,19 @@ Capitulo 8: Static and Dynamic Rendering
   - Renderizado dinamico.
 
 Capitulo 9: Streaming
-  - Que es el y como implementar streaming.
+  - Que es el y como implementar streaming de componentes.
   - Loading.tsx y Suspense
   - Que son los esqueletos de carga.
   - Grupos de rutas overview (Permiten organizar archivos en grupos lógicos sin afectar la estructura de la ruta URL).
+    Ejemplo en el proyecto: carpetaa (overview)
+
+Capitulo 10: Prerenderizado parcial
+  - Que es el prerenderizado parcial.
+  - Como funciona el prerenderizado parcial.
+
+Capitulo 11: Busqueda y paginación.
+  - Apis searchParams, usePathName and useRoute.
+  - Implement search and pagination.
+  https://nextjs.org/learn/dashboard-app/adding-search-and-pagination#best-practice-debouncing
+  
+

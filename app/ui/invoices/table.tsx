@@ -13,6 +13,14 @@ export default async function InvoicesTable({
 }) {
   const invoices = await fetchFilteredInvoices(query, currentPage);
 
+  if(invoices?.length === 0 ){
+    return (
+      <div className="mt-6 flow-root">
+        No hay resultados con tu busqueda...
+      </div>
+    )
+  }
+
   return (
     <div className="mt-6 flow-root">
       <div className="inline-block min-w-full align-middle">
