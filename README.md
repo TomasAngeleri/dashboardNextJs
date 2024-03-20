@@ -54,9 +54,18 @@ Capitulo 10: Prerenderizado parcial
   - Que es el prerenderizado parcial.
   - Como funciona el prerenderizado parcial.
 
-Capitulo 11: Busqueda y paginación.
+Capitulo 11: Busqueda y paginación. IMPORTANTE!!!
   - Apis searchParams, usePathName and useRoute.
   - Implement search and pagination.
-  https://nextjs.org/learn/dashboard-app/adding-search-and-pagination#best-practice-debouncing
-  
+  - Búsqueda y la paginación con parámetros de búsqueda de URL en lugar del estado del cliente.
+
+Capitulo 12: Mutating data
+  - Acciones de React Server y cómo usarlas para mutar datos.
+  - Como trabajar con formularios y componentes de servidor
+  - Revalidacion de la cache del cliente usando revalidateAPI
+  - Como crear segmentos de rutas dinamicas con IDs especificos.
+  - Una ventaja de invocar una acción del servidor dentro de un componente del servidor es la mejora progresiva: los formularios funcionan incluso si
+    JavaScript está deshabilitado en el cliente. IMPORTANTE!!!!
+
+    TO DO: VALIDACIONES: INVOICES STATUS, AMOUNT RANGE
 
