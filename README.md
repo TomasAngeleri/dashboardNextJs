@@ -66,6 +66,18 @@ Capitulo 12: Mutating data
   - Como crear segmentos de rutas dinamicas con IDs especificos.
   - Una ventaja de invocar una acción del servidor dentro de un componente del servidor es la mejora progresiva: los formularios funcionan incluso si
     JavaScript está deshabilitado en el cliente. IMPORTANTE!!!!
-
     TO DO: VALIDACIONES: INVOICES STATUS, AMOUNT RANGE
+
+Capitulo 13: Handling Errors
+  - Archivo Error.tsx para detectar errores.
+  - Funcion notFound() y page not-found para manejar errores 404 (archivos que no existen).
+
+Capitulo 14: Improving Accessibility
+  - Como utilizar eslint-plugin-jsx-a11y para mejores practicas de accesibilidad.
+  - Validaciones de formulario del lado del servidor.
+  - Como usar  el hook useFormState para manejor de errores de formulario y mostrarlos al usuario.
+  - Curso de accesibilidad https://web.dev/learn/accessibility/
+  - Ultimas tendencias del desarrollo web por Chrome https://web.dev/?hl=es-419
+
+
 
