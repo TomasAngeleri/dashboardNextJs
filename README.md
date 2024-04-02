@@ -79,5 +79,7 @@ Capitulo 14: Improving Accessibility
   - Curso de accesibilidad https://web.dev/learn/accessibility/
   - Ultimas tendencias del desarrollo web por Chrome https://web.dev/?hl=es-419
 
+  Retomar en: https://nextjs.org/learn/dashboard-app/improving-accessibility#form-validation
+
 
 
