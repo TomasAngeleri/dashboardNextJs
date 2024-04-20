@@ -79,7 +79,15 @@ Capitulo 14: Improving Accessibility
   - Curso de accesibilidad https://web.dev/learn/accessibility/
   - Ultimas tendencias del desarrollo web por Chrome https://web.dev/?hl=es-419
 
-  Retomar en: https://nextjs.org/learn/dashboard-app/improving-accessibility#form-validation
+Capitulo 15: Adding Authentication
+  - Que es la autenticación.
+  - Como agregamor autenticación a la aplicación usando NextAuth.js.
+  - Como usar un Middleware para redirigir usuarios y proteger rutas.
+  - Como usar React useFormStatus y useFormState para manejar estados y errores de formularios.
+  - Autenticación vs Autorización:
+    La autenticación verifica quién es usted y la autorización determina qué puede hacer o acceder en la aplicación.
+
+  CONTINUAR EN: https://nextjs.org/learn/dashboard-app/adding-authentication#creating-the-login-route
 
 
 
